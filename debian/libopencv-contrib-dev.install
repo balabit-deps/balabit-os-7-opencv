@@ -32,11 +32,6 @@ usr/include/opencv2/fuzzy/*
 usr/include/opencv2/fuzzy.hpp
 usr/lib/*/libopencv_fuzzy.a
 usr/lib/*/libopencv_fuzzy.so
-# hdf
-usr/include/opencv2/hdf/*
-usr/include/opencv2/hdf.hpp
-usr/lib/*/libopencv_hdf.a
-usr/lib/*/libopencv_hdf.so
 # line_descriptor
 usr/include/opencv2/line_descriptor/*
 usr/include/opencv2/line_descriptor.hpp

@@ -8,7 +8,6 @@ usr/lib/*/libopencv_dpm.so.*
 usr/lib/*/libopencv_face.so.*
 usr/lib/*/libopencv_freetype.so.*
 usr/lib/*/libopencv_fuzzy.so.*
-usr/lib/*/libopencv_hdf.so.*
 usr/lib/*/libopencv_line_descriptor.so.*
 usr/lib/*/libopencv_optflow.so.*
 usr/lib/*/libopencv_phase_unwrapping.so.*
