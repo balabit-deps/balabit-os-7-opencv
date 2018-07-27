@@ -1,4 +1,4 @@
-opencv (3.2.0+dfsg-4build2) bionic; urgency=medium
+opencv (3.2.0+dfsg-4build2-bb1) bionic; urgency=medium
 
   * No-change rebuild for tesseract soname change.
 
